@@ -1,0 +1,13 @@
+select: Met deze rechten kan je iets selecteren 
+
+
+
+delete: Met deze funtie kan je iets verwijderen
+
+
+
+insert: Hiermee kan je gegevens aan een tabel toevoegen 
+
+
+
+update: Met deze functie kan je een geselecteerde funties updaten
