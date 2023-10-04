@@ -1,0 +1,42 @@
+Berijf gegevens coolblue 1
+
+Adres: Gustav Mahlerlaan 320, 1082 ME Amsterdam
+
+Telefoon: 010 798 8999
+
+Provincie: Noord-Holland
+
+Gebieden die worden bediend: Nederland	
+
+
+
+
+Berijf gegevens coolblue 2
+
+Adres: Grote Houtstraat 159, 2011 SL Haarlem
+
+Telefoon: 010 798 2088
+
+Provincie: Noord-Holland
+
+Gebieden die worden bediend: Nederland
+
+
+
+Berijf gegevens coolblue 3
+
+Adres: De Diagonaal 28, 1315 XE Almere	
+
+Telefoon: 010 798 8999
+
+Provincie: Flevoland
+
+Gebieden die worden bediend: Nederland
+
+
+We selecteren deze variabelen omdat wij de collumn rechten moeten geven.
+
+
+
+
+
